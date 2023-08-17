@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "amita",
+      "email": "amita.test@gmail.com",
+      "address": "pune"
+    },
+    {
+      "id": 2,
+      "name": "smita",
+      "email": "smita.test@gmail.com",
+      "address": "pune"
+    },
+    {
+      "id": 3,
+      "name": "IT",
+      "email": "it.test@gmail.com",
+      "address": "shivaji-nagar"
+    },
+    {
+      "id": 4,
+      "name": "amita12",
+      "email": "amita12.test@gmail.com",
+      "address": "pune"
+    }
+  ]
+}
